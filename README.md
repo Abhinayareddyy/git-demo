@@ -1,4 +1,4 @@
 # git-demo
 this is my first Git Repository
 <br>
-Author -Abhinaya Reddy
+Author -Abhinaya Reddy K
